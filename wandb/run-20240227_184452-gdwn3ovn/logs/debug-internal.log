@@ -1,0 +1,15 @@
+{"time":"2024-02-27T18:44:52.705042-05:00","level":"INFO","msg":"using version","core version":"0.17.0b9"}
+{"time":"2024-02-27T18:44:52.70512-05:00","level":"INFO","msg":"created symlink","path":"/Users/lihongxuan/Desktop/AIPI/Courses/capstone/wandb-capstone/wandb/run-20240227_184452-gdwn3ovn/logs/core-debug.log"}
+{"time":"2024-02-27T18:44:53.089617-05:00","level":"INFO","msg":"sender: getServerInfo: got server info","serverInfo":{"cliVersionInfo":{"max_cli_version":"0.16.3","min_cli_version":"0.8.20"},"latestLocalVersionInfo":null}}
+{"time":"2024-02-27T18:44:53.090207-05:00","level":"INFO","msg":"created new stream","id":{"value":"gdwn3ovn"}}
+{"time":"2024-02-27T18:44:53.090439-05:00","level":"INFO","msg":"sender: started","stream_id":{"value":"gdwn3ovn"}}
+{"time":"2024-02-27T18:44:53.090404-05:00","level":"INFO","msg":"writer: started","stream_id":{"value":"gdwn3ovn"}}
+{"time":"2024-02-27T18:44:53.090797-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"gdwn3ovn"}}
+{"time":"2024-02-27T18:44:53.331329-05:00","level":"INFO","msg":"core","!BADKEY":null}
+{"time":"2024-02-27T18:44:53.335491-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-02-27T18:45:36.417275-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-02-27T18:45:36.418377-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-02-27T18:45:36.425752-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-02-27T18:45:36.502552-05:00","level":"WARN","msg":"sender: sendFile: file does not exist","path":"/Users/lihongxuan/Desktop/AIPI/Courses/capstone/wandb-capstone/wandb/run-20240227_184452-gdwn3ovn/files/output.log"}
+{"time":"2024-02-27T18:45:37.961314-05:00","level":"INFO","msg":"writer: closed","stream_id":{"value":"gdwn3ovn"}}
+{"time":"2024-02-27T18:45:37.961352-05:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"gdwn3ovn"}}

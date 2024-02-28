@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+
+
+  File "/Users/lihongxuan/Desktop/AIPI/Courses/capstone/wandb-capstone/wandb_log_image_table.py", line 24, in <module>
+    start_time = time.time()
+
+
+AttributeError: 'builtin_function_or_method' object has no attribute 'time'
+
+

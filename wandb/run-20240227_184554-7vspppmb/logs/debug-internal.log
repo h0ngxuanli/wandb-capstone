@@ -1,0 +1,15 @@
+{"time":"2024-02-27T18:45:54.969318-05:00","level":"INFO","msg":"using version","core version":"0.17.0b9"}
+{"time":"2024-02-27T18:45:54.969399-05:00","level":"INFO","msg":"created symlink","path":"/Users/lihongxuan/Desktop/AIPI/Courses/capstone/wandb-capstone/wandb/run-20240227_184554-7vspppmb/logs/core-debug.log"}
+{"time":"2024-02-27T18:45:55.310128-05:00","level":"INFO","msg":"sender: getServerInfo: got server info","serverInfo":{"cliVersionInfo":{"max_cli_version":"0.16.3","min_cli_version":"0.8.20"},"latestLocalVersionInfo":null}}
+{"time":"2024-02-27T18:45:55.310601-05:00","level":"INFO","msg":"created new stream","id":{"value":"7vspppmb"}}
+{"time":"2024-02-27T18:45:55.310721-05:00","level":"INFO","msg":"sender: started","stream_id":{"value":"7vspppmb"}}
+{"time":"2024-02-27T18:45:55.31081-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"7vspppmb"}}
+{"time":"2024-02-27T18:45:55.310777-05:00","level":"INFO","msg":"writer: started","stream_id":{"value":"7vspppmb"}}
+{"time":"2024-02-27T18:45:55.563927-05:00","level":"INFO","msg":"core","!BADKEY":null}
+{"time":"2024-02-27T18:45:55.573912-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-02-27T18:46:32.884967-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-02-27T18:46:32.885581-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-02-27T18:46:32.891893-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-02-27T18:46:32.912806-05:00","level":"WARN","msg":"sender: sendFile: file does not exist","path":"/Users/lihongxuan/Desktop/AIPI/Courses/capstone/wandb-capstone/wandb/run-20240227_184554-7vspppmb/files/output.log"}
+{"time":"2024-02-27T18:46:34.377483-05:00","level":"INFO","msg":"writer: closed","stream_id":{"value":"7vspppmb"}}
+{"time":"2024-02-27T18:46:34.37805-05:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"7vspppmb"}}

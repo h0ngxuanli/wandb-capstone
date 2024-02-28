@@ -1,0 +1,50 @@
+{
+    "os": "macOS-14.0-x86_64-i386-64bit",
+    "python": "3.12.2",
+    "heartbeatAt": "2024-02-28T00:06:11.836632",
+    "startedAt": "2024-02-28T00:06:10.880301",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--n_img",
+        "20",
+        "--core",
+        "old"
+    ],
+    "state": "running",
+    "program": "/Users/lihongxuan/Desktop/AIPI/Courses/capstone/wandb-capstone/wandb_log_image_table.py",
+    "codePathLocal": "wandb_log_image_table.py",
+    "codePath": "wandb_log_image_table.py",
+    "git": {
+        "remote": "git@github.com:h0ngxuanli/wandb-capstone.git",
+        "commit": null
+    },
+    "email": "kongyiji_is_coding@163.com",
+    "root": "/Users/lihongxuan/Desktop/AIPI/Courses/capstone/wandb-capstone",
+    "host": "lihongxuandeAir",
+    "username": "lihongxuan",
+    "executable": "/Users/lihongxuan/opt/anaconda3/envs/wandb/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 460.4317207336426,
+            "used": 438.28600692749023
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

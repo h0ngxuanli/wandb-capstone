@@ -1,0 +1,15 @@
+{"time":"2024-02-27T18:42:25.693925-05:00","level":"INFO","msg":"using version","core version":"0.17.0b9"}
+{"time":"2024-02-27T18:42:25.69399-05:00","level":"INFO","msg":"created symlink","path":"/Users/lihongxuan/Desktop/AIPI/Courses/capstone/wandb-capstone/wandb/run-20240227_184225-chvza094/logs/core-debug.log"}
+{"time":"2024-02-27T18:42:26.555152-05:00","level":"INFO","msg":"sender: getServerInfo: got server info","serverInfo":{"cliVersionInfo":{"max_cli_version":"0.16.3","min_cli_version":"0.8.20"},"latestLocalVersionInfo":null}}
+{"time":"2024-02-27T18:42:26.555639-05:00","level":"INFO","msg":"created new stream","id":{"value":"chvza094"}}
+{"time":"2024-02-27T18:42:26.555753-05:00","level":"INFO","msg":"writer: started","stream_id":{"value":"chvza094"}}
+{"time":"2024-02-27T18:42:26.55578-05:00","level":"INFO","msg":"sender: started","stream_id":{"value":"chvza094"}}
+{"time":"2024-02-27T18:42:26.555928-05:00","level":"INFO","msg":"handler: started","stream_id":{"value":"chvza094"}}
+{"time":"2024-02-27T18:42:26.762637-05:00","level":"INFO","msg":"core","!BADKEY":null}
+{"time":"2024-02-27T18:42:26.76811-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-02-27T18:42:26.875432-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-02-27T18:42:26.875623-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-02-27T18:42:26.878624-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-02-27T18:42:27.283942-05:00","level":"INFO","msg":"writer: closed","stream_id":{"value":"chvza094"}}
+{"time":"2024-02-27T18:42:27.284021-05:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"chvza094"}}
+{"time":"2024-02-27T18:42:27.2849-05:00","level":"INFO","msg":"closed stream","id":{"value":"chvza094"}}
